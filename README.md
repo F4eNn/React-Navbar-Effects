@@ -4,6 +4,8 @@ https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/f515c8f5-a132-411
 
 <h3 align="center">Navbar Animations</h3>
 
+<h2 align="center"></p><a target="_blank" ref="noopener noreferrer" href="https://react-navbar-effects.vercel.app/#Home" >Live💻</a> </h2>
+
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
