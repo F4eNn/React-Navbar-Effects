@@ -1,6 +1,6 @@
 <!-- @format -->
 
-https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/f515c8f5-a132-4116-83f0-43a5ab25501b
+https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/dbdea05b-0668-43f1-8543-6f5d80ff36db
 
 <h3 align="center">Navbar Animations</h3>
 
