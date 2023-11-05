@@ -1,8 +1,6 @@
 <!-- @format -->
 
-<p align="center">
-https://github.com/F4eNn/Audiophile/assets/113229528/a58febd8-0cbd-48a0-b2a9-94d06076188f
-</p>
+https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/f515c8f5-a132-4116-83f0-43a5ab25501b
 
 <h3 align="center">Navbar Animations</h3>
 
