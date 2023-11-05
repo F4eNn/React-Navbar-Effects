@@ -9,7 +9,7 @@ https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/dbdea05b-0668-43f
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/F4eNn/React-Navbar-Effects/issues?q=is%3Aopen+is%3Aissue)](https://github.com/F4eNn/React-Navbar-Effects/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/F4eNn/React-Navbar-Effects)](https://github.com/F4eNn/React-Navbar-Effects/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/F4eNn/React-Navbar-Effects)](https://github.com/F4eNn/React-Navbar-Effects/pulls)
 
 </div>
