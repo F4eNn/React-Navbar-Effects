@@ -1,16 +1,16 @@
 <!-- @format -->
 
-<p align="center">
-https://github.com/F4eNn/Audiophile/assets/113229528/a58febd8-0cbd-48a0-b2a9-94d06076188f
-</p>
+https://github.com/F4eNn/React-Navbar-Effects/assets/113229528/dbdea05b-0668-43f1-8543-6f5d80ff36db
 
 <h3 align="center">Navbar Animations</h3>
+
+<h2 align="center"></p><a target="_blank" ref="noopener noreferrer" href="https://react-navbar-effects.vercel.app/#Home" >Live💻</a> </h2>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/F4eNn/React-Navbar-Effects/issues)](https://github.com/F4eNn/React-Navbar-Effects/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/F4eNn/React-Navbar-Effects/pulls)](https://github.com/F4eNn/React-Navbar-Effects/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/F4eNn/React-Navbar-Effects)](https://github.com/F4eNn/React-Navbar-Effects/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/F4eNn/React-Navbar-Effects)](https://github.com/F4eNn/React-Navbar-Effects/pulls)
 
 </div>
 
@@ -50,8 +50,6 @@ git clone https://github.com/F4eNn/React-Navbar-Effects.git
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
 
 ```
 npm i
