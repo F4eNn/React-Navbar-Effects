@@ -3,7 +3,7 @@
 export const Link = () => {
 	return (
 		<a
-            href="https://github.com/F4eNn"
+            href="https://github.com/F4eNn/React-Navbar-Effects"
             target="_blank"
             rel="noopener noreferrer"
 			aria-label='checkout my repository of this project'
